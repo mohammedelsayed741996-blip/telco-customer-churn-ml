@@ -1,0 +1,10 @@
+metric,value
+Customers,"7,043"
+Churn rate,27.8%
+LR test ROC-AUC,0.842
+LR 5-fold CV ROC-AUC,0.838
+Churn recall (threshold 0.5),79.6%
+Churn precision (threshold 0.5),53.3%
+Brier score (unweighted LR),0.1406
+Top-decile churn rate,70.9%
+Highest-risk segment churn rate,49.0%
